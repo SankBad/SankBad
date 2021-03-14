@@ -13,10 +13,11 @@ Machine learning, Big Data, Scalable machine learning, Deep learning, ML system 
 
 #### 🌱 Major open source projects I am working/worked on: 
 - Red Hat
-  - Configuration file analysis (code), (blog)
-  - Flaky Test Detection (code), (doc)
-- Data science & python workshops delivered at Rutgers (Repo)
-- 
+  - Configuration file analysis [code](https://github.com/aicoe-aiops/configuration-files-analysis), [blog](https://www.operate-first.cloud/data-science/configuration-files-analysis/docs/blog/configuration-file-analysis-blog.md)
+  - Flaky Test Detection [code](https://www.operate-first.cloud/data-science/ocp-ci-analysis/notebooks/failure-type-classification/background/testgrid_flakiness_detection.ipynb), [doc](https://www.operate-first.cloud/data-science/ocp-ci-analysis/notebooks/failure-type-classification/)
+- Data science & python workshops delivered at Rutgers [Repo] (https://github.com/SankBad/Rutgers_library_python_workshop_fall2020)
+- Open source ML Algo library [SRC](https://github.com/SankBad/Data-Mining-Algorithms)
+- Competative Programming [Repo](https://github.com/SankBad/Competative_Programming)
 
 #### :muscle: Things I am learning:
 - I'm learning to become Full stack ML developer
