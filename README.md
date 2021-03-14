@@ -1,11 +1,12 @@
 ### Hi there 👋 
 ### This is Sanket!
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/FernandoRoldan93)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sanketbadhe/)
 
-Welcome to my Github page! I completed my masters in D Computer Engineering Master degree at the university of Granada!  
+Welcome to my Github page! I am a technology enthusiast and growth oriented individual with 4+ years of experience as Data Scientist and ML Engineer. I completed my master's in Data Science from Rutgers University and my Bachelors's from IIT Roorkee.
+
+#### My Expertise:
+Machine learning, Big Data, Scalable machine learning, Deep learning, ML system design, MLOps, Map Reduce, ML Engineering, Computer Vision, NLP, Statistical Analysis, and Data Structure & Algorithms.
 
 <img align="right" alt="img" src="https://github.com/SankBad/SankBad/blob/main/coder.png" width="50%" height="auto" />
 
