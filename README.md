@@ -8,7 +8,7 @@ Welcome to my Github page! I am a technology enthusiast and growth oriented indi
 #### My Expertise:
 Machine learning, Big Data, Scalable machine learning, Deep learning, ML system design, MLOps, Map Reduce, ML Engineering, Computer Vision, NLP, Statistical Analysis, and Data Structure & Algorithms.
 
-<img align="right" alt="img" src="https://github.com/SankBad/SankBad/blob/main/coder.png" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/SankBad/SankBad/blob/main/coder.gif" width="50%" height="auto" />
 
 
 #### 🌱 Major open source projects I am working/worked on: 
@@ -28,6 +28,9 @@ Machine learning, Big Data, Scalable machine learning, Deep learning, ML system 
 - Learning ML Design by reading research papers and ML blogs of different companies
 
 #### :computer: Programming languages: 
+<p>
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=SankBad&show_icons=true&hide_border=true&theme=dark" />
+
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
@@ -39,9 +42,6 @@ Machine learning, Big Data, Scalable machine learning, Deep learning, ML system 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
 
 #### :computer: Tools: 
-
-<p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=SankBad&show_icons=true&hide_border=true&theme=dark" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/ceph/ceph-ar21.svg"></code>
