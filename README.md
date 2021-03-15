@@ -40,6 +40,9 @@ Machine learning, Big Data, Scalable machine learning, Deep learning, ML system 
 
 #### :computer: Tools: 
 
+<p>
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=SankBad&show_icons=true&hide_border=true" />
+
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/ceph/ceph-ar21.svg"></code>
 <code><img width="10%" src="https://github.com/SankBad/SankBad/blob/main/kubeflow.png"></code>
@@ -52,4 +55,4 @@ Machine learning, Big Data, Scalable machine learning, Deep learning, ML system 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg"></code>
 
-
+</p>
