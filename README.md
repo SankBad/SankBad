@@ -29,6 +29,8 @@ Machine learning, Big Data, Scalable machine learning, Deep learning, ML system 
 
 #### :computer: Programming languages: 
 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SankBad&theme=dark">
+
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
@@ -41,7 +43,7 @@ Machine learning, Big Data, Scalable machine learning, Deep learning, ML system 
 #### :computer: Tools: 
 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=SankBad&show_icons=true&hide_border=true" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=SankBad&show_icons=true&hide_border=true&theme=dark" />
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/ceph/ceph-ar21.svg"></code>
