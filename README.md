@@ -28,12 +28,13 @@ Machine learning, Big Data, Scalable machine learning, Deep learning, ML system 
 - Learning ML Design by reading research papers and ML blogs of different companies
 
 #### :computer: Programming languages: 
-
+<p>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SankBad&theme=dark">
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+</p>
 
 #### :computer: Database: 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
